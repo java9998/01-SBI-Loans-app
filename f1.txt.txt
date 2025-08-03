@@ -1,5 +1,12 @@
 Good Evening.
 km cho.?
 
+<<<<<<< Updated upstream
 ok done good work
+=======
+//Task-1
+int i=10;
+int j=20;
+int k=i+j;
+>>>>>>> Stashed changes
 
